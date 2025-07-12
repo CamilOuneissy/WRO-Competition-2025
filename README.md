@@ -4,9 +4,10 @@ Self-driving car robot for WRO Future Engineers competition, featuring autonomou
 
 ## Team Information
 - **Team Name:** Mindscape - 
-- **School/Organization:** Mindscape Accademy
+- **School/Organization:** Mindscape Academy
 - **Country:** Lebanon
 - **Season:** 2025
+- **Members:** Camil Tony Ouneissy, Salim Gerges, Jean-Paul Eghnatios.
 
 ## Robot Overview
 
