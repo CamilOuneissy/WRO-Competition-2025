@@ -1,26 +1,37 @@
-Engineering materials
-====
+# Mindscape 2 - FUTUR ENGINEERS - WRO 25 Lebanon
+## Team members 
+1- Jean-Paul Eghnatios <br>
+2- Salim Gergess <br>
+3- Camil Ouneissy <br>
 
-This repository contains engineering materials of a self-driven vehicle's model participating in the WRO Future Engineers competition in the season 2022.
+## Table of content
+| Content | Folder 
+| - | - |
+| Team members official picture | Team-photo 
+| Team members funny picture | Team-photo 
+| Vehicule different angles pictures | Vehicule-photo 
+| vehicule video on the map | Video
+| Self driving car code | src
+| the electromechanical circuits blueprints | schemes
+| The car base model build | Models
 
-## Content
+# The Mission
+## The map
+<img src="Other\WRO-2025_FutureEngineers_Playfield_page-0001.jpg"></img>
 
-* `t-photos` contains 2 photos of the team (an official one and one funny photo with all team members)
-* `v-photos` contains 6 photos of the vehicle (from every side, from top and bottom)
-* `video` contains the video.md file with the link to a video where driving demonstration exists
-* `schemes` contains one or several schematic diagrams in form of JPEG, PNG or PDF of the electromechanical components illustrating all the elements (electronic components and motors) used in the vehicle and how they connect to each other.
-* `src` contains code of control software for all components which were programmed to participate in the competition
-* `models` is for the files for models used by 3D printers, laser cutting machines and CNC machines to produce the vehicle elements. If there is nothing to add to this location, the directory can be removed.
-* `other` is for other files which can be used to understand how to prepare the vehicle for the competition. It may include documentation how to connect to a SBC/SBM and upload files there, datasets, hardware specifications, communication protocols descriptions etc. If there is nothing to add to this location, the directory can be removed.
+## The objectif
+**There is a total of 2 mission with 2 rounds each** <br>
+#### 0- General rules
+The self driving car must drive around the map for 3 complete Laps. <br>
+ The car is not allowed to touch or move any of the walls that are placed around the map. <br>
+ The participant are not allowed to touch the car during a round.
 
-## Introduction
+#### 1- The Open chalenge
+The Open challenge is where the car must complete three full laps around the field without touching a wall. The size of each side of the field is determined by judges randomly of either 100 cm or 60 cm. The direction that the car drives in is also completly randomized (clockwize or counterclockwize).
 
-_This part must be filled by participants with the technical clarifications about the code: which modules the code consists of, how they are related to the electromechanical components of the vehicle, and what is the process to build/compile/upload the code to the vehicle’s controllers._
+#### 2- The Obstacle Chalenge
+In the obstacle challenge the car must complete three full laps around the field, without touching the different coloured traffic signs (Red or green pillars). If the pillar is red, the car should pass on its right side, and if the pillar is green, the car should pass on its left side. The direction that the car drives in is also completly randomized (clockwize or counterclockwize).
+After the third lap, depending on the last pillar, the car must continue in the same direction or change directions to find the parking lot. The car must then back into the parking lot without touching either of the ends. The size of each side of the field remains constant, 1 metre for each side. 
 
-## How to prepare the repo based on the template
 
-_Remove this section before the first commit to the repository_
 
-1. Clone this repo by using the `git clone` functionality.
-2. Remove `.git` directory
-3. [Initialize a new public repository on GitHub](https://github.com/new) by following instructions from "create a new repository on the command line" section (appeared after pressing "Create repository" button).
