@@ -34,6 +34,10 @@ In the obstacle challenge the car must complete three full laps around the field
 After the third lap, depending on the last pillar, the car must continue in the same direction or change directions to find the parking lot. The car must then back into the parking lot without touching either of the ends. The size of each side of the field remains constant, 1 metre for each side. 
 
 ## The Engineering Materials
+- The car [base](https://www.amazon.com/Click-Play-Control-Crawler-Vehicle/dp/B01MD1SYFZ).<br>
+<img src="Other\The car base.jpg">
+<br>
+<br>
 <li> MG995 servo motor. <br>
 <img src="Other\Mg995 servo.jpg" width=200>
 <br>
