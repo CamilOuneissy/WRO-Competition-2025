@@ -35,7 +35,7 @@ After the third lap, depending on the last pillar, the car must continue in the 
 
 ## The Engineering Materials
 - The car [base](https://www.amazon.com/Click-Play-Control-Crawler-Vehicle/dp/B01MD1SYFZ).<br>
-<img src="Other\The car base.jpg">
+<img src="Models\The car base.jpg">
 <br>
 <br>
 <li> MG995 servo motor. <br>
@@ -84,7 +84,8 @@ After the third lap, depending on the last pillar, the car must continue in the 
 <br>
 <li> HC-SR04 Ultrasonic sensors <br>
 <img src="Other\ultra sonic sensor.jpeg" width=200></img>
-
+<br>
+<br>
 # Car Assembling
 - The servo motor in placed horizontaly on the front of the robot dteering the front wheels to make the car steer to the direction it rotates to.
 - The Webcam is place on the servo motor at the base level fixed with double tape.
