@@ -86,8 +86,18 @@ After the third lap, depending on the last pillar, the car must continue in the 
 <img src="Other\ultra sonic sensor.jpeg" width=200></img>
 
 # Car Assembling
-<li>The Webcam was screwed on the front of the car at the base level to detect the upcomming obstacle. <li> The MG995 servo motor is placed on the front wheels allowing the  car to turn using ackerman steering to the direction the servo motor turns to. <li>The INGCO 20V battery is placed on the servo motor connected to the step down converter ti insure the perfect voltage for each extension added to our Raspberry pi 5. <li> For the raspberry pi 5, it's placed behind the servo motor on in middle of the car base covered by its 12V cooler. <li> The bread board positive and negative lane are place next the raspberry pi. <li> The Dc motor is connected to the rear  wheels using gears to ensure more torque to the car, and it's connected the the L298N motor driver. <li> The L298N motor driver is place on the back of the car at the truck level. <li> Two ultrasonic sensors are place on each left and right sdes of the car to ensure the car steering around the map.
-
+- The servo motor in placed horizontaly on the front of the robot dteering the front wheels to make the car steer to the direction it rotates to.
+- The Webcam is place on the servo motor at the base level fixed with double tape.
+- The Ingco bbattery  is place dehinf the servo motor fized with double tape also and the ON/OFF switch is glued on the front of it.
+- The raspberry pi 5 is fized on top of the battery with its cooler on top of it.
+- The step down converter is placed on the Left side of the left side of the battery.
+- Behinf the battry, at the wheels llevel is placed a motor (note: we removed the car default DC motor and added a stronger one).
+- On the motor box is placed the L298N motor driver, that controls the motor.
+- At the very end of the base is place the positive & negative lines of the bread board part we used.
+### Notes
+- All the GPIO pins are connected perfectly to the raspberry pi 5.
+- The electricity management is done with the positive line of the breadboard.
+- The same is done with the GND.
 
 
 
