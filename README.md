@@ -17,7 +17,7 @@
 
 # The Mission
 ## The map
-<img src="Other\WRO-2025_FutureEngineers_Playfield_page-0001.jpg"></img>
+<img src="Other\WRO-2025_FutureEngineers_Playfield_page-0001 (1).jpg" width=600></img>
 
 ## The objectif
 **There is a total of 2 mission with 2 rounds each** <br>
@@ -47,7 +47,7 @@ After the third lap, depending on the last pillar, the car must continue in the 
 <br>
 <br>
 <li>Step Down Converter <br>
-<img src="Other\Step Down Converter.webp" width=200>
+<img src="Other\Stepdown conveter for the raspberrry.jpg" width=200>
 <br>
 <br>
 <li>A 12V DC motor <br>
