@@ -35,7 +35,7 @@ After the third lap, depending on the last pillar, the car must continue in the 
 
 ## The Engineering Materials
 - The car [base](https://www.amazon.com/Click-Play-Control-Crawler-Vehicle/dp/B01MD1SYFZ).<br>
-<img src="Models\The car base.jpg">
+<img src="Models\The car base.jpg" width=200>
 <br>
 <br>
 <li> MG995 servo motor. <br>
