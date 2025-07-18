@@ -8,7 +8,11 @@ This folder contain two picture of our team, an official one, and a funny one.
 <br>
 <br>
 
-###
+### For The funny picture
+1-Jean-Paul Eghnatios (middle) <br>
+2-Salim Gergess (Right) <br>
+3-Camil Ouneissy (Left) <br>
+<img src="Funny team photo.jpg" > <br>
 
 
 

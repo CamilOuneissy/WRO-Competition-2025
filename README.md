@@ -42,7 +42,7 @@ After the third lap, depending on the last pillar, the car must continue in the 
 <img src="Other\raspberry-pi-54gb.webp" width=200>
 <br>
 <br>
-<li>Ingco 12V 4A rechargeble drilling machine battery.
+<li>Ingco 12V 4A rechargeble drilling machine battery. <br>
 <img src="Other\Ingco 20V battery.jpg" width=200>
 <br>
 <br>
